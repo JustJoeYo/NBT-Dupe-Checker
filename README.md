@@ -31,6 +31,6 @@ You may change these in Settings->Controls and navigate down to the "NBT Dupe Ch
 You can also open the UI by typing /NBT in chat
 
 **IMPORTANT:**
-I am not releasing the source code for this mod due to ratters and scammers! YOU HAVE BEEN WARNED!
+I am not releasing the source code for this mod due to scammers! YOU HAVE BEEN WARNED!
 **Do not download this mod from anywhere besides the official release, be careful of scams due to the increasing amount of fake mods.
                                                                [THIS IS THE OFFICIAL RELEASE]**
